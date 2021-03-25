@@ -4,4 +4,5 @@ Esto va en un branch de prubea.
 
 Mal.
 
-Opalala!!
+Agrego un cambio medio conflicitvo.
+Opalala.
